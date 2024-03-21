@@ -1,2 +1,1 @@
-Basic Binary Search Tree following doctest
-Practice using helper methods
+Basic Binary Search Tree following doctest. Additional practice using helper methods.
